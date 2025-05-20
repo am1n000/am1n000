@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/am1n000">
-    <img src="https://img.shields.io/github/followers/Abdeljalil-Bouchfar?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/am1n000?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/amine-el-rhair-45007a24a/">
     <img src="https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" />
