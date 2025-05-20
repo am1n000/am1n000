@@ -9,6 +9,16 @@
 
 ###
 
+### Hi there 👋
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/am1n000)](https://leetcode.com/am1n000)
+
+<!--### My Top 5 Coding Languages I Love Working With-->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
